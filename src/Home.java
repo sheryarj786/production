@@ -3,6 +3,7 @@ import javax.swing.*;
 public class Home extends JFrame {
     private JPanel panel1;
     private JButton producerMachinesButton;
+    private JLabel hopperCountNumField;
 
     public Home(String title){
         super(title);
