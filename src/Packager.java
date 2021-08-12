@@ -10,7 +10,7 @@ public class Packager extends JFrame{
     public Packager(String title){
         super(title);
 
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    //    this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setContentPane(panel1);
         this.pack();
     }

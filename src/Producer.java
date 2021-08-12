@@ -10,7 +10,7 @@ public class Producer extends JFrame{
     public Producer(String title){
         super(title);
 
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    //    this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setContentPane(panel1);
         this.pack();
     }
