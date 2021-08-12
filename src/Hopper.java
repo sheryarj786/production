@@ -1,3 +1,7 @@
 public class Hopper {
-    int count = 0;
+    int count = 10;
+
+    public void add(){
+        count++;
+    }
 }
